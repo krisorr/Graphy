@@ -10,5 +10,5 @@ Final graph should look something like this:
 Graphing library:
 https://github.com/PhilJay/MPAndroidChart
 
-Data will be provided.
+Data will be provided, but will consist of a date and a total sales value for that day.
 
