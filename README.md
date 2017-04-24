@@ -12,3 +12,4 @@ https://github.com/PhilJay/MPAndroidChart
 
 Data will be provided, but will consist of a date and a total sales value for that day.
 
+https://api.myjson.com/bins/rgw8
